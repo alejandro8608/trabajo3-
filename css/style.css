@@ -59,11 +59,22 @@ img {
 }
 
 /** Header **/
-.webp .header {
+/* .webp .header {
     background-image: url(../img/banner.webp);
+} */
+
+.webp .header {
+    background-image: url(../img/banner_uab.jpg);
+    height:150px;
+    width: auto;
+    max-height: 100%; 
 }
+
 .no-webp .header {
-    background-image: url(../img/banner.jpg);
+    background-image: url(../img/banner_uab.jpg);
+    height:150px;
+    width: auto;
+    max-height: 100%; 
 }
 .header {
     height: 60rem;
