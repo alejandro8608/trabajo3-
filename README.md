@@ -4,10 +4,10 @@ _Tarea: 3
 
 ## Integrantes: 🚀
 
-_Juan Carlos Mendoza Gutierrez_
-_D. Alejandro Guzman Lozano _
-_Reynel Orlando Villca Hurtado _
-Erik Vladimir Huallpa Aruquipa 
+* Juan Carlos Mendoza Gutierrez
+* D. Alejandro Guzman Lozano
+* Reynel Orlando Villca Hurtado
+* Erik Vladimir Huallpa Aruquipa 
 
 ## Presidente: 
 _D. Alejandro Guzman Lozano 
