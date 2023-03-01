@@ -1,6 +1,6 @@
 # GRUPO 4 - ChatGPT
 
-_Tarea: 3
+Tarea: 3
 
 ## Integrantes: 🚀
 
@@ -10,6 +10,6 @@ _Tarea: 3
 * Erik Vladimir Huallpa Aruquipa 
 
 ## Presidente: 
-_D. Alejandro Guzman Lozano 
+D. Alejandro Guzman Lozano 
 ## Secretario: 
-_Juan Carlos Mendoza Gutierrez
+Juan Carlos Mendoza Gutierrez
