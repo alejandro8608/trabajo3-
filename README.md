@@ -1,13 +1,15 @@
-GRUPO 4 - ChatGPT
-================================
+# GRUPO 4 - ChatGPT
 
-Tarea: 3
+_Tarea: 3
 
-Integrantes: 
-Juan Carlos Mendoza Gutierrez
-D. Alejandro Guzman Lozano 
-Reynel Orlando Villca Hurtado 
+## Integrantes: 🚀
+
+_Juan Carlos Mendoza Gutierrez_
+_D. Alejandro Guzman Lozano _
+_Reynel Orlando Villca Hurtado _
 Erik Vladimir Huallpa Aruquipa 
 
-PRESIDENTE: D. Alejandro Guzman Lozano 
-SECRETARIO: Juan Carlos Mendoza Gutierrez
+## Presidente: 
+_D. Alejandro Guzman Lozano 
+## Secretario: 
+_Juan Carlos Mendoza Gutierrez
